@@ -4,7 +4,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 
-## 📖 Tentang Project
+## 📖 About the Project
 
 Tiga Putra Bakery website is a digital platform for a bakery that features a variety of quality bread products. This website was created to make it easier for customers to view the product catalog and place orders online. With a modern and responsive design, this website provides a pleasant shopping experience for bread lovers.
 
@@ -55,10 +55,8 @@ Tiga Putra Bakery website is a digital platform for a bakery that features a var
 
 ## 👤 Developed By
 
-**Tim Tiga Putra**
-- Website: [tigaputra.com](#)
-- Email: contact@tigaputra.com
-- Instagram: [@tigaputrabakery](#)
+**Supriyandi La Awe**
+- Email: supriyandilaawe.com
 
 ## 🌟 Advantages
 
