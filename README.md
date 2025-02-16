@@ -24,51 +24,12 @@ Tiga Putra Bakery website is a digital platform for a bakery that features a var
 - [JavaScript](https://www.javascript.com/) - Interactivity
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 
-## 🏁 Website Structure
-
-```
-/
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── pages/
-│   ├── tentang-kami.html
-│   ├── menu.html
-│   └── kontak.html
-└── README.md
-```
-
 ## 📷 Features and Pages
 
 ### Home Page
 - Hero section with tagline “Let's Enjoy a Piece of Healthy Bread”
 - Interesting slogan: “Dry bread at home is better than grilled meat abroad”
 - “Buy Now” button for quick action
-
-### Navigation Menu
-- Home
-- About Us
-- Menu
-- Contact
-
-## 👤 Developed By
-
-**Supriyandi La Awe**
-- Email: supriyandilaawe.com
-
-## 🌟 Advantages
-
-- Modern and clean design
-- Focus on user experience
-- High-quality product images
-- Intuitive navigation
-- Fast loading time
-
-## 📝 License
-
-© 2024 Tiga Putra Bakery. All rights reserved.
 
 ## 🔧 Development Guide
 
